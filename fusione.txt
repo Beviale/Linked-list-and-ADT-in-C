@@ -1,0 +1,12 @@
+1&Lettere&Bevilacqua&6&95
+1&Informatica&Loglisci&10&100
+2&Algebra&Giannuzzi&10&27
+2&Matematica&Giannuzzi&9&130
+3&Fisica&Santini&9&10
+3&Filosofia&Brondo&6&10
+4&Discreta&Basile&12&45
+5&Sistemi&Gatto&12&81
+5&ITPS&Lamartella&10&8
+6&Laboratorio&Rossi&10&9
+10&Lettere&Verde&9&92
+77&Geometria&DiStefano&12&70

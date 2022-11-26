@@ -1,0 +1,4 @@
+2&Matematica&Giannuzzi&9&130
+2&Algebra&Giannuzzi&10&27
+4&Discreta&Basile&12&45
+6&Laboratorio&Rossi&10&9

@@ -1,0 +1,6 @@
+1&Lettere&Bevilacqua&6&95
+2&Algebra&Giannuzzi&10&27
+3&Fisica&Santini&9&10
+4&Discreta&Basile&12&45
+6&Laboratorio&Rossi&10&9
+5&Sistemi&Gatto&12&81

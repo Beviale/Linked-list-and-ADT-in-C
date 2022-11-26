@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1658989771 source:c:\users\bevia\onedrive\desktop\esame\controlli.c
+	"controlli.h"
+	"adt.h"
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1658989729 c:\users\bevia\onedrive\desktop\esame\controlli.h
+	<stdio.h>
+	"adt.h"
+
+1658938715 c:\users\bevia\onedrive\desktop\esame\adt.h
+	<stdio.h>
+
+1658938923 source:c:\users\bevia\onedrive\desktop\esame\funzioni.c
+	"funzioni.h"
+	"controlli.h"
+	"file.h"
+	<stdlib.h>
+	<stdio.h>
+
+1658938587 c:\users\bevia\onedrive\desktop\esame\funzioni.h
+	"adt.h"
+
+1658928772 source:c:\users\bevia\onedrive\desktop\esame\file.c
+	"file.h"
+	"controlli.h"
+	<string.h>
+
+1658918942 c:\users\bevia\onedrive\desktop\esame\file.h
+	"adt.h"
+	<stdio.h>
+	<stdlib.h>
+
+1658938762 source:c:\users\bevia\onedrive\desktop\esame\adt.c
+	"adt.h"
+	"file.h"
+	"controlli.h"
+	<stdlib.h>
+	<string.h>
+
+1658989604 source:c:\users\bevia\onedrive\desktop\esame\main.c
+	"adt.h"
+	"controlli.h"
+	"funzioni.h"
+	<stdio.h>
+	<stdlib.h>
+
